@@ -58,8 +58,7 @@ Siga as instruções da prova que estão no moodle.
 }
 ```
 
-- GET http://localhost:8000/voos
-Sem corpo
+-c
 
 - GET http://localhost:8000/voos/vendas
 
